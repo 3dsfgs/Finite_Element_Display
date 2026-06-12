@@ -34,6 +34,6 @@
 本来准备新加ui的，后续有时间再弄吧
 
 [image1](https://github.com/3dsfgs/Finite_Element_Display/blob/master/1.png)
-[image1](https://github.com/3dsfgs/Finite_Element_Display/blob/master/2.png)
-[image1](https://github.com/3dsfgs/Finite_Element_Display/blob/master/3.png)
-[image1](https://github.com/3dsfgs/Finite_Element_Display/blob/master/4.png)
+[image2](https://github.com/3dsfgs/Finite_Element_Display/blob/master/2.png)
+[image3](https://github.com/3dsfgs/Finite_Element_Display/blob/master/3.png)
+[image4](https://github.com/3dsfgs/Finite_Element_Display/blob/master/4.png)
