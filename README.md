@@ -4,10 +4,10 @@
 - [中文](#中文)
 
 - # Demo Example
-[image1](https://github.com/3dsfgs/Finite_Element_Display/blob/master/1.png)
-[image2](https://github.com/3dsfgs/Finite_Element_Display/blob/master/2.png)
-[image3](https://github.com/3dsfgs/Finite_Element_Display/blob/master/3.png)
-[image4](https://github.com/3dsfgs/Finite_Element_Display/blob/master/4.png)
+![image1](https://github.com/3dsfgs/Finite_Element_Display/blob/master/1.png)
+![image2](https://github.com/3dsfgs/Finite_Element_Display/blob/master/2.png)
+![image3](https://github.com/3dsfgs/Finite_Element_Display/blob/master/3.png)
+![image4](https://github.com/3dsfgs/Finite_Element_Display/blob/master/4.png)
 
 ### 中文
 # 背景
