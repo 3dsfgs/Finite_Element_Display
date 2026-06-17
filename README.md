@@ -1,3 +1,15 @@
+## Language
+
+- [English](#english)
+- [中文](#中文)
+
+- # Demo Example
+[image1](https://github.com/3dsfgs/Finite_Element_Display/blob/master/1.png)
+[image2](https://github.com/3dsfgs/Finite_Element_Display/blob/master/2.png)
+[image3](https://github.com/3dsfgs/Finite_Element_Display/blob/master/3.png)
+[image4](https://github.com/3dsfgs/Finite_Element_Display/blob/master/4.png)
+
+### 中文
 # 背景
 
 - 这个项目的发展历史更加的黑暗，也是让我明白了，重新认识到，这个社会的运行规则 —— 技术在资源以及权力面前什么都不是；
@@ -33,7 +45,33 @@
 # ui
 本来准备新加ui的，后续有时间再弄吧
 
-[image1](https://github.com/3dsfgs/Finite_Element_Display/blob/master/1.png)
-[image2](https://github.com/3dsfgs/Finite_Element_Display/blob/master/2.png)
-[image3](https://github.com/3dsfgs/Finite_Element_Display/blob/master/3.png)
-[image4](https://github.com/3dsfgs/Finite_Element_Display/blob/master/4.png)
+
+### English
+# Background
+This project went through a rather grim development journey, which gave me a brand-new, sobering understanding of how society really operates: technology means nothing in the face of resources and power.
+I completed the entire project single-handedly. A hard lesson learned—never take random freelance outsourcing work again!
+The project is likely permanently stalled. I’m open-sourcing it in hopes that others can draw some insights from it.
+
+# Code Directory
+- three-dimensional braided composite material\  **Root Directory**
+  - interactiveStyle\  *Interactive Utility Classes*
+    - coordinate_axis.py
+    - interactive_style_cpp.py
+    - interactive_style_h.py
+    - region_select.py
+    - Tool_Definition.py
+  - ui\  *GUI Interface Module*
+    - icon\
+      - Various *.jpg icon assets
+    - main_window.py
+  - MainMaindow.py  *Main Program Entry*
+  - ElementData.dat  *Data File (Must be loaded together with NodeData.dat)*
+  - NodeData.dat
+  - README
+# Project Overview
+This project implements shell extraction and other auxiliary computations for finite element models.
+It also supports yarn model operations including merging, splicing, array generation, and more.
+
+# Environment Setup
+Refer to the third-party libraries exported via the command:
+pip freeze > requirements.txt
