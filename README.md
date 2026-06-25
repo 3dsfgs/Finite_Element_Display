@@ -13,8 +13,11 @@
 # 背景
 
 - 这个项目的发展历史更加的黑暗，也是让我明白了，重新认识到，这个社会的运行规则 —— 技术在资源以及权力面前什么都不是；
-- 该项目全由个人独自完成，以后不要乱接外包！
+- 该项目全由个人独自完成，以后不要乱接外包！有些太吃苦了
 - 估计已经烂尾了，开源希望能有些启示；
+- 国企的大多数人都是不入流的角色，也可能有一些优秀的角色，但到目前为止我还没有遇到过他们.
+- (https://www.zhihu.com/question/1917346273004061335)
+![image5](https://github.com/3dsfgs/Finite_Element_Display/blob/master/5.png)
 
 
 # 代码目录
@@ -51,6 +54,7 @@
 This project went through a rather grim development journey, which gave me a brand-new, sobering understanding of how society really operates: technology means nothing in the face of resources and power.
 I completed the entire project single-handedly. A hard lesson learned—never take random freelance outsourcing work again!
 The project is likely permanently stalled. I’m open-sourcing it in hopes that others can draw some insights from it.
+Most people in state-owned enterprises and central enterprises are in mediocre roles, and there may be a few excellent roles, but I have not encountered them so far
 
 # Code Directory
 - three-dimensional braided composite material\  **Root Directory**
